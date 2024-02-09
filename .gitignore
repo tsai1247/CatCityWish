@@ -1,3 +1,6 @@
+.vscode*
 *.xlsx
 *.env
-list.txt
+*.txt
+Summary.json
+__pycache__*
